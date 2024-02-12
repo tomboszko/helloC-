@@ -1,0 +1,15 @@
+C:\tom\code\github\repo\helloC-\helloWorld\bin\Debug\net8.0\helloWorld.exe
+C:\tom\code\github\repo\helloC-\helloWorld\bin\Debug\net8.0\helloWorld.deps.json
+C:\tom\code\github\repo\helloC-\helloWorld\bin\Debug\net8.0\helloWorld.runtimeconfig.json
+C:\tom\code\github\repo\helloC-\helloWorld\bin\Debug\net8.0\helloWorld.dll
+C:\tom\code\github\repo\helloC-\helloWorld\bin\Debug\net8.0\helloWorld.pdb
+C:\tom\code\github\repo\helloC-\helloWorld\obj\Debug\net8.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\tom\code\github\repo\helloC-\helloWorld\obj\Debug\net8.0\helloWorld.AssemblyInfoInputs.cache
+C:\tom\code\github\repo\helloC-\helloWorld\obj\Debug\net8.0\helloWorld.AssemblyInfo.cs
+C:\tom\code\github\repo\helloC-\helloWorld\obj\Debug\net8.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\tom\code\github\repo\helloC-\helloWorld\obj\Debug\net8.0\helloWorld.sourcelink.json
+C:\tom\code\github\repo\helloC-\helloWorld\obj\Debug\net8.0\helloWorld.dll
+C:\tom\code\github\repo\helloC-\helloWorld\obj\Debug\net8.0\refint\helloWorld.dll
+C:\tom\code\github\repo\helloC-\helloWorld\obj\Debug\net8.0\helloWorld.pdb
+C:\tom\code\github\repo\helloC-\helloWorld\obj\Debug\net8.0\helloWorld.genruntimeconfig.cache
+C:\tom\code\github\repo\helloC-\helloWorld\obj\Debug\net8.0\ref\helloWorld.dll
